@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Crytpo
+- 🌱 I’m currently learning Crypto
 <!--
 **shibbe123/shibbe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
